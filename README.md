@@ -1,10 +1,12 @@
-# Monokai Pro (CE) for [My App](https://my-app.url)
+# Monokai Pro (CE) for [Oh My Posh](https://ohmyposh.dev)
 
 ![Screenshot](screenshot.png)
 
 ## About this theme
 
-This Monokai Pro Community Edition (CE) theme is maintained by [Contributor](https://github.com/contributor) and is based on the original [Monokai Pro](https://monokai.pro) theme.
+This Monokai Pro Community Edition (CE) theme is maintained by [Josué Estrada](https://github.com/JosueEstrada) and is based on the original [Monokai Pro](https://monokai.pro) theme.
+
+Recommended font: [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode)
 
 [Installation instructions](INSTALL.md)
 
